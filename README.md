@@ -41,7 +41,7 @@ I am currently learning java and improving my python programming skills.</p>
 
 
 ## Skint Mod
-<img src="https://minecraft-inside.ru/uploads/files/2023-09/169589_650a70fa2da05.png" width="300px"></img>
+<img src="https://media.forgecdn.net/avatars/thumbnails/879/571/256/256/638307335706011279.png" width="300px"></img>
 
 
 ### Download:
@@ -51,7 +51,7 @@ I am currently learning java and improving my python programming skills.</p>
 <br>
 
 ## Engraving Table
-<img src="https://minecraft-inside.ru/uploads/files/2024-06/6680ff1d2af21.png" width="300px"></img>
+<img src="https://cdn.modrinth.com/data/BKZelr2j/1bc4834b5523f38ea1093bc0067f405cb8bc6cd4_96.webp" width="300px"></img>
 
 ### Download
 - **[Minecraft Inside (RU)](https://minecraft-inside.ru/mods/177602-engraving-table.html)**
