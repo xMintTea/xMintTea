@@ -14,7 +14,6 @@ I am currently learning java and improving my python programming skills.</p>
 [![CurseForgeAccount](https://img.shields.io/badge/xMintTea-101010?style=for-the-badge&logo=CurseForge&logoSize=100)](https://www.curseforge.com/members/xminttea/projects)
 [![TelegramChannel](https://img.shields.io/badge/</Mint>-101010?style=for-the-badge&logo=telegram&logoSize=100)](https://t.me/MintCode)
 [![TelegramAccount](https://img.shields.io/badge/xMintTea-101010?style=for-the-badge&logo=telegram&logoSize=100)](https://t.me/xMintTea)
-[![Vk](https://img.shields.io/badge/xMintTea-101010?style=for-the-badge&logo=vk&logoColor=0077FF)](https://vk.com/id392323457)
 ![Discord](https://img.shields.io/badge/xmint__tea-222222?style=for-the-badge&logo=discord&logoSize=100)
 
 
