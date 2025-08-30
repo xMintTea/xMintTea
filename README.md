@@ -61,6 +61,34 @@ I am currently learning java and improving my python programming skills.</p>
 <br>
 
 
+## Grace, The Clown's Scythe
+![clownscytheimg](https://github.com/user-attachments/assets/d3e228e2-3fa2-40ef-a86f-9e40c7a6c530)
+
+
+
+Directly inspired by doctor4t's [video](https://www.youtube.com/watch?v=RUHAG4fT9CA)
+
+Also checkout their's [Arsenal Mod](https://modrinth.com/mod/arsenal)! 
+
+### Download
+- **[Minecraft Inside (RU)](https://minecraft-inside.ru/mods/181459-grace-the-clownpierces-scythe.html)**
+- **[Curse Forge (EN)](https://www.curseforge.com/minecraft/mc-mods/grace-the-clownpierces-scythe)**
+
+<br>
+
+## Bottomless Pouch (Enhacned!)
+![bottomlesspouchimg](https://github.com/user-attachments/assets/d7f66ed3-4cd1-4df7-8cf1-deca89ffe6a4)
+
+Directly inspired by [Thaumic Tinkerer](https://www.curseforge.com/minecraft/mc-mods/thaumic-tinkerer)!
+
+### Download
+- **[Minecraft Inside (RU)](https://minecraft-inside.ru/mods/186409-bezdonnaya-sumka-bottomless-pouch.html)**
+- **[Curse Forge (EN)](https://www.curseforge.com/minecraft/mc-mods/bottomless-pouch-enhanced)**
+- **[Modrinth (EN)](https://modrinth.com/mod/bottomless-pouch)**
+
+<br>
+
+
 </details>
 
 
