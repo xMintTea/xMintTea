@@ -102,7 +102,7 @@ Directly inspired by [Thaumic Tinkerer](https://www.curseforge.com/minecraft/mc-
 
 <br>
 
-## [Endforia](https://boosty.to/rein1_modpacks/posts/368be88f-fcc2-45f2-8bd3-c5e57c69587c?share=post_link) modpack by [Eternal Time Studio](https://saudade-studio.ru/)
+## Endforia modpack by Eternal Time Studio
 <img src="https://sun9-21.userapi.com/impg/9S-hpkWg3FexdrKzerYns-AaPNEGyXPpteqX4A/RAlIJpEzWyI.jpg?size=1280x720&quality=95&sign=90931f395b958a58048fcff1b89ff053&type=album">
 
 </details>
