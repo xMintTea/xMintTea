@@ -25,7 +25,6 @@ I am currently learning java and improving my python programming skills.</p>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=,vscode,idea,visualstudio,obsidian" />
     <img src="https://skillicons.dev/icons?i=python,html,css,javascript,java,cs" /><br>
 </div>
 
